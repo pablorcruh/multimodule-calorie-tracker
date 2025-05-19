@@ -13,5 +13,6 @@ dependencies {
     implementation(project(Modules.core))
     implementation(project(Modules.coreUi))
     implementation(project(Modules.onboardingDomain))
+    implementation("androidx.compose.material3:material3-android:1.3.2")
 
 }
