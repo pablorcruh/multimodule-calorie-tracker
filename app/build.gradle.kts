@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.plcoding.calorytracker"
-    compileSdk = ProjectConfig.compileSdk
+    compileSdk = 34
 
     defaultConfig {
         applicationId = ProjectConfig.appId
